@@ -3,6 +3,4 @@ Repositorio que contiene el material utilizado en el seminario impartido en el M
 
 En este seminario, crearemos un modelo de NLP que nos ayudará a analizar y predecir el sentimiento descrito en una serie de reseñas de productos de Amazon. Finalmente, desarrollaremos un scraper capaz de extraer de forma automatizada reseñas y valoraciones de un producto.
 
-Este enlace proporciona acceso al material de manera remota: 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Vins16/tree-manadine/HEAD
+Este enlace proporciona acceso al material de manera remota: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vins16/tree-manadine/HEAD)
